@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Scholarship.Api/Scholarship.Api.csproj" />
+  <Project Path="Scholarship.Web/Scholarship.Web.csproj" />
+</Solution>
